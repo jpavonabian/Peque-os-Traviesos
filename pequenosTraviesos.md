@@ -179,63 +179,80 @@ A continuación se presenta una semilla de aventura introductoria casi lista par
 
 ### Sinopsis
 
-Los personajes son un grupo de amigos del barrio que han olido algo irresistible: **la señora García acaba de hornear una tanda de galletas de chocolate**. El cuenco lleno de galletas deliciosas descansa tentadoramente en la cocina de su casa... bajo la atenta (¿o distraída?) mirada de la señora García y su perro guardián, el viejo bulldog _Rompecortinas_.
+Los personajes son un grupo de amigas del barrio que han olido algo irresistible: **la señora García acaba de hornear una tanda de galletas de chocolate**. El cuenco lleno de galletas deliciosas descansa tentadoramente en la cocina de su casa... bajo la atenta (¿o distraída?) mirada de la señora García y su perro guardián, el viejo bulldog _Rompecortinas_.
 
-La misión de los niños: **infiltrarse en la casa, hacerse con algunas galletas y escapar indemnes** antes de que la señora García (una vecina amable pero estricta) o Rompecortinas los descubran.
+La misión de las niñas: **infiltrarse en la casa, hacerse con las galletas y escapar indemnes** antes de que la señora García (una vecina amable pero estricta) o Rompecortinas los descubran.
+
+\sp
 
 ### Escena 1: ¡A planear!
 
-Los niños se reúnen en la casa del árbol del jardín de uno de ellos o en el patio trasero, lejos de miradas adultas, para planear la travesura. Aquí las personas que juegan pueden conversar en personaje, presentar a sus niños y sus motivaciones... ¡Describe y usa tu imaginación! Como DJ puedes plantear la premisa, narrando como un NPC les avisa de la existencia de las galletas o cómo el dulce aroma llega flotando por el aire.
+Os reunís en la casa del árbol del jardín de una de vosotras o en el patio trasero, lejos de miradas adultas, para planear la travesura. Aquí podéis conversar en personaje, presentar a vuestros niños y sus motivaciones... ¡Describid y usad vuestra imaginación! Si hay DJ, puede plantear la premisa, narrando cómo un PNJ os avisa de la existencia de las galletas o cómo el dulce aroma llega flotando por el aire.
 
 #### **Ideas:**
 
-- **Conversación inicial:** Deja que cada persona que juega describa cómo su personaje se entera de las galletas (¿quizá el delicioso olor por la ventana? ¿un pajarito se los contó? ¿la propia nieta de la señora García se chivó?). Que discutan un plan: ¿Irán todos juntos o dividirán tareas? ¿Quién distraerá a la señora García? ¿Cómo evitarán al perro?  
-- **Aspectos de escena:** Las personas que juegan/ DJ pueden establecer aspectos para esta escena, que representen ventajas o desventajas. Ejemplos: *"Atardecer – se hace de noche pronto"* (podría ayudar a esconderse en la oscuridad más tarde), *"Tenemos walkie-talkies de juguete"* (los niños pueden comunicarse), o *"Barriga rugiente"* (¡el hambre apremia a alguno de ellos!). Estos aspectos se pueden invocar más adelante pagando Puntos de Destino o incluso gratuitamente si las circunstancias lo favorecen.
-- **Tirada opcional de preparación:** Si algún niño quiere **crear una ventaja** antes de actuar (por ejemplo, hacer un dibujito de plano de la casa, o afilar un palo de escoba como “espada” de juguete), puede hacer tiradas pertinentes. Un **Astuto** podría dibujar el plano de la cocina (+2 si tiene éxito) creando el aspecto *"Conocemos el plano de la casa"*. Un **Cauto** podría recoger información sin ser visto, espiando desde la ventana de la señora (tirada de Furtivo). Estas ventajas darán aspectos utilizables en la siguiente escena.
+- **Conversación inicial:** Podéis describir cómo se entera vuestro personaje de las galletas (¿quizá el delicioso olor por la ventana? ¿un pajarito se lo contó? ¿la propia nieta de la señora García se chivó?). Decidid un plan: ¿iréis todas juntas o dividiréis tareas? ¿Quién distraerá a la señora García? ¿Cómo evitaréis al perro?  
+- **Aspectos de escena:** Podéis establecer aspectos para esta escena que representen ventajas o desventajas. Ejemplos: *"Atardecer – se hace de noche pronto"*, *"Tenemos walkie-talkies de juguete"*, o *"Barriga rugiente"*. Estos aspectos se pueden invocar más adelante pagando Puntos de Destino o incluso gratuitamente si las circunstancias lo permiten.
+- **Tirada opcional de preparación:** Si alguna quiere **crear una ventaja** antes de actuar (por ejemplo, dibujar un plano de la casa, o afilar un palo de escoba como “espada” de juguete), puede hacer tiradas adecuadas. Una niña **Astuta** podría dibujar el plano de la cocina creando el aspecto *"Conocemos el plano de la casa"*. Otra, más **Cauta**, podría espiar desde la ventana (tirada de Furtivo). Estas ventajas podrán usarse en la siguiente escena.
 
-### Escena 2: Infiltración en la Casa de la Señora García
+\sp
 
-Con el plan (o la improvisación) en marcha, los niños se acercan a la casa. Esta escena se trata de entrar, sortear obstáculos dentro y obtener las galletas. Dividamos esto en sub-retos: **entrar en la casa**, **conseguir las galletas**, y evitar/engañar a la señora y al perro mientras tanto.
+### Escena 2: Infiltración en la casa de la señora García
 
-**Obstáculo 1 – Entrar sin ser vistos:** La puerta principal está cerrada y la señora García está meciendo en su silla en la sala de estar viendo la tele, con Rompecortinas a sus pies. ¿Cómo entran los chicos? Opciones:
-- **Ventana abierta:** Un niño **Ágil/Rápido** podría trepar por la verja y colarse por una ventana entreabierta de la cocina (tirada de Rápido o Furtivo dificultad 2). Un fallo podría significar que hace ruido al caer dentro, alertando al perro.
-- **Puerta trasera:** Quizás la puerta de atrás del patio está solo con pestillo sencillo. Un niño **Astuto** podría intentar abrirla con alguna herramienta (tirada de Astuto dificultad 2 o 3). Con **Proezas** adecuadas (p.ej. “Se abrir cerraduras sencillas”), dar bonificación. Un fallo podría significar que se traba causando un ruido sordo.
-- **Distracción externa:** Alternativamente, un niño **Llamativo** puede tocar el timbre o provocar que la vecina salga (por ejemplo, simulando ser un repartidor o haciendo que suene una alarma). Tirada de Llamativo enfrentada contra la atención de la señora García (podemos darle a la Sra. García un valor de **Cauto +2** para resistir distracciones). Si tiene éxito, la señora sale a investigar, dejando la puerta entreabierta – ¡oportunidad de colarse! Un fallo podría hacer que la señora se ponga más alerta en lugar de salir.
+Con el plan (o la improvisación) en marcha, os acercáis a la casa. Esta escena trata de entrar, sortear obstáculos dentro y obtener las galletas. Dividámoslo en sub-retos: **entrar en la casa**, **conseguir las galletas**, y evitar o engañar a la señora y al perro.
 
-Las personas que juegan pueden dividirse tareas: quizás uno distrae mientras otros entran. **Sin DJ:** ellos mismos deciden qué intentan y cómo se resuelve, usando tiradas enfrentadas si corresponde. (Una persona puede encarnar brevemente a la Sra. García para tirar por ella).
+**Obstáculo 1 – Entrar sin ser vistas:**
 
-**Obstáculo 2 – El perro guardián:** Dentro de la casa, en el pasillo hacia la cocina, los espera Rompecortinas, el bulldog veterano. Está medio dormido en su cama perruna... por ahora. ¿Cómo lidiarán con él? Posibles ideas:
-- **Pasar sigilosamente:** Obvio, ¡a gatas y sin hacer ruido! Tirada de **Furtivo** para cada niño que pase cerca (dificultad 1 si el perro duerme profundamente, 3 si ya está despierto y alerta). Un **Fallo** podría significar que Rompecortinas abre un ojo y gruñe; tal vez no da la alarma todavía, pero el próximo que falle, el perro ladra.
-- **Distracción con comida:** Si alguno trae comida (¿quizá un pedazo de carne “tomado prestado” de su casa?), podría tirarlo para distraer al perro. Eso podría crear un **aspecto** *"Saboreando el bocadillo"* en el perro, que otro niño puede invocar para obtener +2 al pasar sigiloso o rápido ahora que el perro está entretenido. Tiren **Astuto** o **Llamativo** para ver si la distracción funciona (dificultad 2).
-- **Amansar al cachorro:** Tal vez uno de los niños conoce bien a Rompecortinas (podrían declararlo con un Punto de Destino: "Resulta que Rompecortinas me quiere, siempre juego con él a través de la verja"). En tal caso, puede usar **Cauto** o **Llamativo** para calmarlo y hacerle cariño en silencio. Éxito y el perro ni ladra; fallo y se emociona demasiado y podría ladrar de felicidad (¡lo cual también arruina la operación!).
+- **Ventana abierta:** Trepad por la verja y colaos por una ventana de la cocina (tirada de Rápido o Furtivo dif. 2). Un fallo podría alertar al perro.
+- **Puerta trasera:** Abrid el pestillo con algo improvisado (tirada de Astuto dif. 2 o 3). Un fallo podría generar ruido.
+- **Distracción externa:** Tocad el timbre o inventad un truco (tirada de Llamativo contra la atención de la señora). Si falláis, se pondrá más alerta.
 
-**Escena 2 – Conseguir las Galletas:** Una vez sorteado el perro (¡o con el tiempo contado antes de que vuelva a por más comida!), los niños llegan a la **cocina**. Sobre la encimera está el frasco de galletas, brillando bajo la luz de la lámpara. Problemas potenciales: la encimera es alta, la señora García podría regresar pronto, y ¿hay algún obstáculo sorpresa?
+Podéis dividiros tareas. Sin DJ, decidid entre vosotras qué hacéis y cómo se resuelve. Una persona puede interpretar brevemente a la señora García.
 
-- **Subir a alcanzar el frasco:** Para niños pequeños, la encimera puede ser difícil de alcanzar. Un **Fuerte** podría cargar a otro o arrastrar una silla (tirada Fuerte dificultad 1 o 2). Un **Ágil/Rápido** podría saltar y trepar (Rápido dif 2-3). Un **Cauto** podría construir una “torre” con objetos (p.ej., apilar libros y latas; Cauto dif 2). Un fallo podría resultar en un estrépito: la silla raspa el suelo, o algo se cae de la encimera.
-- **Frasco bien cerrado:** La tapa está dura. Si los niños están a contrarreloj, abrirla podría requerir **Fuerza** (Fuerte dif 2). Un **Astuto** podría buscar un utensilio para hacer palanca (Astuto dif 1). Si nadie logra abrir rápidamente, esto consume tiempo...
-- **¡Cuidado con la trampa dulce!** Podríamos añadir un giro: La señora García, conociendo a los pilluelos del barrio, puso una **campanilla** en el frasco (un hilo que suena una campanita si mueven el frasco). Detectarla a tiempo requiere una tirada de **Cauto** u **Astuto** (dificultad 3). Si la descubren, pueden desactivarla con cuidado. Si no, cuando muevan el frasco, suena _tilín tilín_... (¡lo que casi seguro desencadena la señora/peligro final!). Este elemento es opcional para dar emoción.
+**Obstáculo 2 – El perro guardián:**
 
-**Posibles resultados de la Escena 2:**
-- **Éxito total:** Los niños consiguen las galletas sin alertar a nadie. Tal vez alcanzan a huir sigilosamente con un buen motín de dulces.
-- **Éxito con complicaciones:** Logran tomar las galletas, pero cometen un error (derriban algo, suena la campana, Rompecortinas ladra) que alerta a la señora García justo cuando tienen las manos en la masa… ¡Es hora de correr con lo que tengan! (Pasamos a la escena de Escape en situación de persecución).
-- **Fallo gracioso:** Quizá uno de los niños se queda atascado en la ventana, o el perro no estaba tan dormido. Pueden decidir que justo cuando cogen la galleta, la luz se enciende: la señora los pilla in fraganti. Aún así, podría dar pie a negociar o a una huida desesperada. En Fate, un fallo interesante es mejor que simplemente “no lo logras”. Por ejemplo, en vez de “no consiguen nada”, podría ser “consiguen solo una galleta cada uno antes de tener que salir pitando”.
+- **Pasar sigilosamente:** Tiradas de Furtivo (dif. 1–3). Un fallo podría despertar al perro.
+- **Distracción con comida:** Usad algo de comida para distraerlo. Podéis crear el aspecto *"Saboreando el bocadillo"*.
+- **Amansar al perro:** Si alguna tiene un vínculo con él, gastad un Punto de Destino y haced una tirada de Cauto o Llamativo.
 
-### Escena 3: ¡Escape épico!
-Esta escena es el clímax donde, si fueron descubiertos (muy probable, porque ¿dónde está la gracia si no?), los niños escapan de la casa y del enfado de la señora García. Si jugaron con un tono más realista, la señora quizá les siga con la escoba en mano echándolos del jardín. Si optaron por lo épico-imaginario, ¡tal vez ahora huyen del dragón escupefuego que resultó ser Rompecortinas, llevando el Amuleto Sagrado de las Galletas! En cualquier caso, el escape debería ser dinámico y divertido.
+\sp
 
-**Posibles Desafíos en el Escape:**
-- **Carrera a toda velocidad:** Los niños corren por el jardín o calle. Hagan tiradas de **Rápido** enfrentadas con el **Rápido (o Fuerte)** de quien los persiga (la señora podría tener Rápido 0 pero Fuerte +2, representando que no es veloz pero tiene zancadas largas; el perro podría tener Rápido +2). Si los niños ganan, ganan distancia; si empatan, sigue la persecución cerca; si fallan, la perseguidora les pisa los talones o alguien tropieza. Esto puede ser una **competición** a varios intercambios: por ejemplo, necesitan 3 éxitos antes de 3 fallos para escapar definitivamente. Cada tirada, quienes tengan éxito cuentan para el progreso grupal.
-- **Obstáculos repentinos:** El grupo o el DJ puede describir obstáculos: un **seto espinoso** que deben saltar (tirada de **Ágil/Rápido** dif 2), una **valla** que escalar (**Fuerte** dif 1-3 dependiendo de altura), un **tráfico en la calle** (tirada de **Cauto** para cruzar con cuidado sin detener la carrera). Cada obstáculo podría requerir al menos un éxito grupal para superarlo sin perder tiempo. Usen aspectos de escenario si los pusieron: p.ej., *"Atardecer oscurecido"* podría dar +2 a esconderse (**Furtivo**) en las sombras de un jardín vecino.
-- **Trabajo en equipo:** Recuerden que los personajes pueden **ayudarse** entre sí. Por ejemplo, si uno es el más Rápido, puede llevar de la mano al más lento: ese personaje puede ceder su tirada y en lugar de eso dar un +1 de ayuda al líder (regla de ayuda: un personaje con un estilo adecuado puede sumar +1 a la tirada de otro en vez de hacer su propia tirada, si narrativamente tiene sentido). Otro puede distraer al perseguidor deteniéndose un segundo a gritar "¡Miren, allá hay más niños!" (Llamativo) para dar tiempo a los demás (aunque se arriesga a ser atrapado él – muy heroico). Incentiven a las personas que juegan a describir cómo colaboran, enfatizando la camaradería de la pandilla.
+### Escena 3: ¡Las galletas!
 
-**Clausura de la Escena 3:**
-- Si los niños **escapan con las galletas**, ¡es hora de celebrar la victoria! Quizá terminan en su guarida secreta repartiéndose el botín y riendo recordando la cara de la señora García. Pueden tener un momento dulce (literalmente) de amistad – y quizás dejando una galleta como ofrenda para el pobre Rompecortinas que los ayudó involuntariamente.
-- Si algún niño fue **capturado o se rindió**, no tiene por qué ser algo triste: tal vez la señora García los sienta a escuchar una reprimenda y terminan ayudándola a limpiar el desastre a cambio de perdón (y uno o dos bocaditos como consolación). Incluso podrían convertirlo en parte del epílogo divertido: *"Y al final, la Sra. García, conmovida por nuestras caras de arrepentimiento (y hambre), ¡nos invitó a comer galletas en la sala bajo su supervisión!"* – una manera inesperadamente cordial de acabar.
-- En tono épico, podría ser: los héroes regresan al **castillo-casa del árbol** con el tesoro salvado del dragón, y celebran como caballeros victoriosos al anochecer, ¡hasta que mamá los llama a cenar y deben volver a la realidad!
+Ya en la cocina, el frasco de galletas os espera. Pero aún hay retos por delante:
 
-### Epílogo y Continuación
-Tras completar **Operación Galleta**, las personas que juegan habrán probado las mecánicas básicas. Pueden luego inventar sus propias aventuras traviesas: ¿quizá la próxima meta es colarse de noche en el colegio para recuperar un avión de papel atrapado en el techo del aula? ¿O una búsqueda del tesoro en el parque que se sale de control? Las posibilidades son infinitas mientras mantengan el espíritu infantil y creativo.
+- **Subir a alcanzarlas:** Trepad (Rápido), moved una silla (Fuerte) o construid una torre (Cauto). Dificultad 1–3.
+- **Frasco cerrado:** Abridlo con Fuerza (dif. 2) o ingenio (Astuto dif. 1).
+- **Trampa de campanilla:** Detectadla con una tirada de Cauto o Astuto (dif. 3). Si falláis... ¡tilín tilín!
 
-Si desean escalar a un tono más **épico o fantástico**, recuerden que a veces basta la imaginación de los niños para transformar lo cotidiano en extraordinario. Una simple travesura puede narrarse como salvar el mundo: por ejemplo, en lugar de galletas eran “pociones mágicas” y la señora era una “bruja guardiana”. Esto puede hacerse manteniendo las mismas tiradas y lógicas, solo cambiando la descripción narrativa para satisfacer esas ganas de épica. Incluso pueden alternar entre la realidad y la imaginación: “en realidad estamos en la cocina, pero nuestros personajes _lo viven_ como una cueva del dragón”. ¡Divertidísimo!
+**Posibles resultados:**
 
-**¡Y eso es todo!** Espero que **Pequeños Traviesos** te inspire a jugar sesiones llenas de risa y creatividad. Recuerda que las reglas están para apoyar la historia, ¡así que si alguna vez dudas, prioriza la diversión y la lógica de las travesuras! Reúne a tus amigos, prepara unos dados (o tus d6 comunes), algunos bocadillos (¿galletas quizá?) y disfruta contando aventuras de niños ingeniosos contra el mundo de los adultos.
+- **Éxito total:** Nadie os ve. ¡Galletas aseguradas!
+- **Éxito con complicaciones:** Os descubren justo cuando conseguís el frasco.
+- **Fallo gracioso:** Algo cae, el perro ladra, o la señora os pilla con las manos en la masa.
+
+\sp
+
+### Escena 4: ¡Escape épico!
+
+Si os han descubierto, ¡toca huir! Quizás os persiguen la señora o el perro. O, si jugáis en modo épico, huís de un dragón guardián.
+
+**Desafíos:**
+
+- **Carrera final:** Tiradas enfrentadas de Rápido. Jugadlo como una competición grupal: 3 éxitos antes de 3 fallos para escapar.
+- **Obstáculos:** Saltad setos, escalad vallas, esquivad tráfico. Usad Rápido, Fuerte o Cauto según el caso.
+- **Trabajo en equipo:** Ayudaos entre vosotras. Ceded vuestra tirada para dar +1 a otra, si narrativamente tiene sentido.
+
+#### Clausura de la escena:
+
+- Si escapáis con las galletas, celebrad en la guarida secreta.
+- Si os pillan, puede terminar en reprimenda... ¡o en merienda compartida!
+- En tono épico, regresad al castillo-casa del árbol con el tesoro.
+
+\sp
+
+### Epílogo y continuación
+
+Tras completar **Operación Galleta**, ya conocéis las reglas básicas. Ahora podéis crear vuestras propias historias: recuperar un avión de papel del tejado del cole, investigar un misterio en el parque... ¡Todo vale si implica imaginación y travesuras!
+
+**¡Y eso es todo!** Espero que **Pequeños Traviesos** os inspire a vivir sesiones llenas de risas e imaginación. Recordad: las reglas están para apoyaros, pero la diversión es lo primero. ¡Reunid a vuestros amigos, unos dados y... que empiece la aventura!
