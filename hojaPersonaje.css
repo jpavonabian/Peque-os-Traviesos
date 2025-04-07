@@ -19,6 +19,10 @@ body {
   margin: auto;
 }
 
+section > * {
+  margin-bottom: 1.2em;
+}
+
 h1 {
   text-align: center;
   font-size: 1.8em;
@@ -70,10 +74,12 @@ code {
   border-radius: 3px;
 }
 
+/* Para impresión */
 @media print {
   body {
     padding: 1cm;
     font-size: 12pt;
+    background: white;
   }
 
   h1, h2 {
