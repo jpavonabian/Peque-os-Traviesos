@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Pequeños Traviesos – Juego de Rol basado en Fate Acelerado
+
+InfoKey: Author
+InfoValue: Jesús Pavón Abián
+
+InfoKey: Subject
+InfoValue: Juego de rol para jugar aventuras con niños haciendo travesuras.
+
+InfoKey: Keywords
+InfoValue: juego de rol, fate acelerado, infantil, travesuras, pdf, ttrpg, sencillo, niños

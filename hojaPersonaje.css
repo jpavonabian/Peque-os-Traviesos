@@ -1,0 +1,86 @@
+:root {
+  --accent-color: #c2573a;
+  --border-color: #aaa;
+  --text-color: #222;
+  --background: white;
+  --font-body: "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-title: "Georgia", serif;
+  --font-size: 13pt;
+}
+
+body {
+  background: var(--background);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: var(--font-size);
+  line-height: 1.6;
+  padding: 2cm;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.8em;
+  color: var(--accent-color);
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+  font-family: var(--font-title);
+}
+
+h2 {
+  font-size: 1.2em;
+  color: var(--accent-color);
+  margin-top: 1.5em;
+  margin-bottom: 0.2em;
+}
+
+hr {
+  border: none;
+  border-top: 1px dashed var(--border-color);
+  margin: 1.5em 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+table th, table td {
+  border: 1px solid var(--border-color);
+  padding: 0.4em;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 0.3em;
+}
+
+code {
+  font-family: monospace;
+  background-color: #f2f2f2;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+@media print {
+  body {
+    padding: 1cm;
+    font-size: 12pt;
+  }
+
+  h1, h2 {
+    page-break-after: avoid;
+  }
+
+  table, p, ul {
+    page-break-inside: avoid;
+  }
+}

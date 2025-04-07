@@ -1,0 +1,136 @@
+:root {
+  --padding: 48px;
+  --accent-color: #e64a4a;
+  --text-color: #222;
+  --bg-color: #fffaf5;
+  --border-color: #ccc;
+  --font-body: "Segoe UI", "Helvetica Neue", sans-serif;
+  --font-title: "Georgia", serif;
+  --font-size: 13.5pt;
+}
+
+body {
+  background: var(--bg-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: var(--font-size);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  word-spacing: 0.05em;
+}
+
+body > * {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 var(--padding);
+}
+
+/* Encabezados */
+h1, h2, h3 {
+  font-family: var(--font-title);
+  color: var(--accent-color);
+  margin-top: 2em;
+  margin-bottom: 0.3em;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  border-left: 4px solid var(--accent-color);
+  padding-left: 0.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+p {
+  margin: 0.5em 0;
+}
+
+blockquote {
+  background: #f0f0f0;
+  border-left: 4px solid var(--accent-color);
+  margin: 1em 0;
+  padding: 0.8em 1em;
+  font-style: italic;
+}
+
+ul {
+  padding-left: 1.5em;
+  margin: 0.5em 0;
+}
+
+ul li {
+  list-style-type: "★ ";
+}
+
+table {
+  border-collapse: collapse;
+  margin: 1em 0;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid var(--border-color);
+  padding: 0.5em;
+  text-align: left;
+}
+
+strong {
+  color: var(--accent-color);
+}
+
+code {
+  font-family: monospace;
+  background-color: #eee;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* Saltos y columnas */
+.saltopagina {
+  display: block;
+  page-break-before: always;
+  height: 0;
+  margin: 2em 0;
+  opacity: 0;
+}
+
+.columns {
+  columns: 2;
+  column-gap: 2em;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  opacity: 0;
+}
+
+/* Impresión */
+@media print {
+  @page {
+    size: A4;
+    margin: 1.5cm;
+  }
+
+  body {
+    background: white;
+    color: black;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+  }
+}
