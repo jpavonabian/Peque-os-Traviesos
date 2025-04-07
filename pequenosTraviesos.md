@@ -1,10 +1,14 @@
 # Pequeños Traviesos
 *Basado en Fate Acelerado. Aventuras de niños, travesuras y mucha imaginación.*  
 
+\sp
+
 ## Introducción  
 **Pequeños Traviesos** es un mini-juego de rol inspirado en _Fate Acelerado (FAE), diseñado para contar historias de niños haciendo... Cosas de niños, claro. Es un juego ligero, humorístico y flexible, ideal para sesiones rápidas o campañas desenfadadas. La ambientación es infantil y cómica (tipo dibujos animados o películas familiares), pero con la posibilidad de escalar a un tono épico si los jugadores quieren hacerlo. ¡El límite es tu cerebro!
 
 Las reglas son sencillas. Incluso puedes jugar **sin necesidad de un Director de Juego (DJ)** si ninguno del grupo quiere asumir ese papel.
+
+\sp
 
 ## **¿Qué necesitas para jugar?**
 
@@ -14,6 +18,8 @@ No mucho, la verdad. Toma nota (o no):
 - Papel y lápiz para anotar cosas.
 - Cuatro dados Fate (dados Fudge) **o** cuatro dados normales de 6 caras por jugador (veremos más adelante cómo usarlos).
 - Fichas, caramelos o monedas para representar **Puntos de Destino** (se sugiere 3 por jugador). Nota: Los caramelos molan más y se pueden comer. Lo mismo ocurre con las monedas si son de chocolate, aunque el calor puede hacer que se derritan.
+
+\sp
 
 ## Reglas Simplificadas de Fate Acelerado
 
@@ -51,19 +57,27 @@ Las reglas de **Pequeños Traviesos** se basan en una simplificación de las reg
     - Si superas la dificultad por **3 o más**, obtienes un **Éxito con Estilo**: además de lograrlo, obtienes un beneficio añadido (por ejemplo, creas un nuevo aspecto temporal gratuito para aprovechar después, como *"En la oscuridad, nadie nos ve"*).
     - Si tu resultado es **menor** que la dificultad, **fallas**. Pero no te preocupes: en Fate, un fallo aún hace avanzar la historia. Quizá consigues **algo a cambio** o sufres una consecuencia divertida. El DJ o el grupo pueden decidir el efecto de la falla: tal vez logras tu objetivo **pero** con un coste o complicación (ej.: consigues las galletas, pero tiras un florero y ahora la abuela se despierta).
 
-- **Estrés y Consecuencias:** Representan los problemas temporales que sufren los personajes cuando las cosas no salen bien (como daño, cansancio o líos). En **Pequeños Traviesos**, al ser un juego ligero, normalmente **no hay heridas graves**, sino contratiempos cómicos (raspones, estar agotado, o que te atrapen los adultos). Cada personaje tiene un **medidor de Estrés** con **3 casillas** 📦📦📦. Cuando recibes un impacto o consecuencia por fallar o por ser afectado por un enemigo, marca casillas de estrés:
+- **Estrés y Consecuencias:** Representan los problemas temporales que sufren los personajes cuando las cosas no salen bien (como daño, cansancio o líos). En **Pequeños Traviesos**, al ser un juego ligero, normalmente **no hay heridas graves**, sino contratiempos cómicos (raspones, estar agotado, o que te atrapen los adultos). Cada personaje tiene un **medidor de Estrés** con **3 casillas**. Cuando recibes un impacto o consecuencia por fallar o por ser afectado por un enemigo, marca casillas de estrés:
 
   - Un **impacto leve** ocupa 1 casilla, moderado 2, grave 3. (Si recibes por ejemplo 2 puntos de estrés, marcas la casilla de valor 2; si recibes 3, marcas la de 3; si recibes 4 o más, podrías marcar la de 3 y la de 1 juntas, por ejemplo, para absorber un total de 4).
   - Si no tienes casillas libres suficientes para absorber un impacto, tu personaje queda **fuera del juego** en esta escena (¡te han pillado, te rindes o necesitas un respiro!). Esto no es el fin de tu personaje: simplemente significa que momentáneamente estás a merced de la narrativa o de los oponentes en esa escena. En términos narrativos, quizás el niño es castigado a reflexionar a una esquina o se esconde hasta que pase el peligro porque tiene mucho miedo.
 
   Opcionalmente, los jugadores pueden en lugar de caer fuera, aceptar **Consecuencias**: un aspecto negativo duradero que refleja un contratiempo mayor pero te mantiene en juego. Por ejemplo, *"Magullado y sucio"* (consecuencia leve, -2), *"Regañado y castigado"* (moderada, -4). Las consecuencias reducen el estrés recibido en esa cantidad pero añaden un nuevo aspecto que puede ser invocado por los oponentes o la historia. En un juego tan ligero, usar o no consecuencias queda a decisión del grupo; pueden ser útiles si quieren un toque más cercano a Fate tradicional o para **campañas más largas** donde los problemas trascienden una escena.
 
+  Las casillas de Estrés se vacían **al final de cada escena**, siempre que el personaje tenga un momento de descanso, calma o respiro. En términos narrativos, esto suele coincidir con el fin de una travesura, cuando cambia el escenario o cuando los niños tienen un momento para respirar (por ejemplo, tras escapar, esconderse o cambiar de actividad).
+
+  No es necesario hacer tiradas ni justificarlo mecánicamente: el Estrés representa tensión inmediata. Una vez termina la escena en la que fue marcado, **se borra automáticamente**.  
+  En cambio, las **Consecuencias** pueden durar más tiempo, hasta que se resuelvan o dejen de tener efecto en la historia.
+  
 **Juego con o sin Director:** En partidas tradicionales de Fate hay un **Director de Juego (DJ)** que plantea la escena, controla a los adultos y decide dificultades. **Pequeños Traviesos** permite jugar sin DJ de forma cooperativa:
 - Los jugadores en conjunto describen la situación inicial y los desafíos. Pueden turnarse para introducir problemas: p.ej., cada jugador en su turno puede narrar qué obstáculo o travesura ocurre a continuación, mientras su propio personaje actúa como protagonista en esa escena y los demás colaboran o ayudan.
 - Para determinar éxitos o fracasos imparciales sin un DJ, apoyarse en las tiradas: si no hay oposición obvia, tirad contra una dificultad fija acordada (como se recomienda arriba). Si hay incertidumbre sobre las consecuencias, podeis usar una regla de destino: por ejemplo, tirar 1d6 – si sale 1-2 algo va mal, 3-4 ocurre algo neutro, 5-6 ocurre algo favorable inesperadamente.
 - También podeis designar a un **DJ rotativo**: cada escena, un jugador distinto asume brevemente el papel de narrador para los desafíos, mientras su personaje toma un segundo plano. Así se reparte la tarea de ser DJ sin que recaiga siempre en una persona.
 
+\sp
+
 ## Conversión de Dados Fate a Dados de 6 Caras
+
 En Fate se usan cuatro **dados Fate (Fudge)** que tienen símbolos +, – y blancos. No todos tienen estos dados especiales a mano, ¡pero no te preocupes! Es muy fácil convertir dados comunes de 6 caras:
 
 ### **Cómo usar 4 dados de 6 caras (4d6) en lugar de 4dF:**
@@ -75,6 +89,8 @@ Es sencillo. Solo tienes que sustituir los números que sacas en las tiradas:
 - **5-6 = +** (más)
 
 Cada dado de 6 caras que tires cuenta como un dado Fate convertido. Así, tirar 4d6 equivale a tirar 4dF: cuenta cada d6 como +, 0 o – según la tabla de arriba y luego suma. **Ejemplo:** Si sacas [3, 6, 4, 1] en 4d6, conviértelos: 3→0, 6→+, 4→0, 1→–. Sumando símbolos: +0+0– = + (en valores numéricos sería  +1 -1 = 0 total). Usa ese resultado como tu tirada Fate normal, luego añade tu estilo correspondiente.
+
+\sp
 
 ## Creación de Personajes
 Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y tendrás un personaje listo para la aventura:
@@ -90,6 +106,8 @@ Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y te
 6. **Estrés (y Consecuencias si aplican):** Anota tres casillas de estrés [☐☐☐]. No te olvides de dejar espacio para apuntar consecuencias si juegan con ellas.
 
 ¡Eso es todo! No tiene más complicaciones.
+
+\sp
 
 ### Hoja de Personaje
 
@@ -124,6 +142,7 @@ Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y te
 - Moderada (-4): [________________]
 - Grave (-6): [________________]
 
+\sp
 
 ### Ejemplo de Personaje
 
@@ -151,6 +170,8 @@ Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y te
 **Consecuencias:** (No usadas en este ejemplo por simplicidad)
 
 Juanito es bueno siendo veloz y escurridizo (Rápido +3, Furtivo +2) – perfecto para huir con el tarro de galletas – y bastante fuerte para su edad (Fuerte +2) así que puede cargar a su hermana o trepar una valla. No es muy astuto con los libros (+0), y a veces no piensa antes de actuar (Cauto solo +1), lo que le mete en líos. Sus aspectos reflejan que es un ladrónzuelo pero de buenos sentimientos. Con esta ficha, ¡Juanito está listo para vivir una aventura llena de travesuras!
+
+\sp
 
 ## Semilla de aventura: **"Operación Galleta"**
 

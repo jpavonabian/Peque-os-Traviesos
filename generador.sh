@@ -1,5 +1,4 @@
 #!/bin/bash
-
 OUTDIR="./documentos"
 mkdir -p "$OUTDIR"
 
