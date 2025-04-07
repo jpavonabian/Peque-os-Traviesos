@@ -101,9 +101,9 @@ Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y te
    - **Problema:** ¿qué le mete en problemas? Ej.: *"No puedo resistirme a un misterio"*, *"Demasiado travieso para mi propio bien"*, *"Miedo a la oscuridad (¡pero no lo admito!)"*.
    - **Aspecto Adicional:** algo distintivo extra. Ej.: *"Mi tirachinas siempre a mano"*, *"Hija del conserje de la escuela (tengo llaves de muchos sitios)"*, *"Valiente protector de mis amigos"*.
 3. **Reparte sus Estilos:** Asigna los valores +3, +2, +2, +1, +1, +0 a los seis estilos (Cauto, Astuto, Llamativo, Fuerte, Rápido, Furtivo) según en qué sobresale tu personaje. Pon +3 en su punto fuerte principal, +0 en el que peor se le da, etc. Ejemplo de distribución: Marina decide que es muy **Astuta (+3)**, bastante **Cauta y Furtiva (+2)**, algo **Llamativa y Rápida (+1)**, pero nada **Fuerte (+0)** porque es pequeña y enclenque.
-4. **Elige 1-3 Proezas:** Inventa uno o más trucos especiales. Pueden derivarse de sus aspectos. Para Marina, que es una inventora lista: una proeza podría ser *"¡He arreglado esto con cinta adhesiva!: +2 al ser Astuta cuando improvisa inventos o reparaciones caseras"*. Otra: *"Plan maestro: una vez por partida, si tuve tiempo de planear, puedo declarar que tengo justo el artilugio que necesitamos"*. Sé creativo pero mantén las proezas sencillas.
+4. **Elige de 1 a 3 Proezas:** Inventa uno o más trucos especiales. Pueden derivarse de tus aspectos. Para Marina, que es una inventora lista: una proeza podría ser *"¡He arreglado esto con cinta adhesiva!: +2 al ser Astuta cuando improviso inventos o reparaciones caseras"*. Otra: *"Plan maestro: una vez por partida, si tuve tiempo de planear, puedo declarar que tengo justo el chisme que necesitamos"*. Sé creativo pero mantén las proezas sencillas.
 5. **Anota Puntos de Destino:** Comienzo estándar es **3**. (Si tomaste más de 3 proezas, tu **Refresco** baja a 2 o menos, pero eso es opcional en este mini-juego, puedes ignorar esa regla para mantenerlo simple).
-6. **Estrés (y Consecuencias si aplican):** Anota tres casillas de estrés [☐☐☐]. No te olvides de dejar espacio para apuntar consecuencias si juegan con ellas.
+6. **Estrés (y Consecuencias si aplican):** Anota tres casillas de estrés. No te olvides de dejar espacio para apuntar consecuencias si jugais con ellas.
 
 ¡Eso es todo! No tiene más complicaciones.
 
@@ -167,9 +167,9 @@ Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y te
 
 **Puntos de Destino iniciales:** 3 ✪✪✪
 **Estrés:** ☐ ☐ ☐
-**Consecuencias:** (No usadas en este ejemplo por simplicidad)
+**Consecuencias:** (No usadas en este ejemplo)
 
-Juanito es bueno siendo veloz y escurridizo (Rápido +3, Furtivo +2) – perfecto para huir con el tarro de galletas – y bastante fuerte para su edad (Fuerte +2) así que puede cargar a su hermana o trepar una valla. No es muy astuto con los libros (+0), y a veces no piensa antes de actuar (Cauto solo +1), lo que le mete en líos. Sus aspectos reflejan que es un ladrónzuelo pero de buenos sentimientos. Con esta ficha, ¡Juanito está listo para vivir una aventura llena de travesuras!
+Juanito es bueno siendo veloz y escurridizo (Rápido +3, Furtivo +2) – perfecto para huir con el tarro de galletas – y bastante fuerte para su edad (Fuerte +2) así que puede cargar a su hermana o trepar una valla. No es muy astuto con los libros (+0), y a veces no piensa antes de actuar (Cauto solo +1), lo que le mete en líos. Sus aspectos reflejan que es un ladronzuelo pero de buenos sentimientos.
 
 \sp
 

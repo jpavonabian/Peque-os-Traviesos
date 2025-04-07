@@ -20,8 +20,9 @@ body {
   word-spacing: 0.05em;
 }
 
+/* Contenedor general */
 body > * {
-  max-width: 800px;
+  max-width: 70ch;
   margin: 0 auto;
   padding: 0 var(--padding);
 }
@@ -71,6 +72,7 @@ ul {
 
 ul li {
   list-style-type: "★ ";
+  margin-bottom: 0.3em;
 }
 
 table {
@@ -96,7 +98,7 @@ code {
   border-radius: 4px;
 }
 
-/* Saltos y columnas */
+/* Saltos de página */
 .saltopagina {
   display: block;
   page-break-before: always;
@@ -105,15 +107,18 @@ code {
   opacity: 0;
 }
 
-.columns {
-  columns: 2;
-  column-gap: 2em;
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
 }
 
+/* Saltos de columna: por compatibilidad, pero ignorados en diseño monocolumna */
 .saltocolumna {
   display: block;
   break-before: column;
   height: 0;
+  padding: 0;
+  margin: 0;
   opacity: 0;
 }
 
@@ -121,16 +126,25 @@ code {
 @media print {
   @page {
     size: A4;
-    margin: 1.5cm;
+    margin: 2cm;
   }
 
   body {
-    background: white;
-    color: black;
+    background: white !important;
+    color: black !important;
+  }
+
+  body > * {
+    max-width: 100%;
+    padding: 0;
   }
 
   .saltopagina {
     display: block;
     page-break-before: always;
+  }
+
+  .saltopagina + * {
+    margin-top: var(--padding);
   }
 }
