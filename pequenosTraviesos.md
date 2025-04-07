@@ -93,6 +93,7 @@ Cada dado de 6 caras que tires cuenta como un dado Fate convertido. Así, tirar 
 \sp
 
 ## Creación de Personajes
+
 Crear un niño travieso es rápido, sencillo y divertido. Sigue estos pasos y tendrás un personaje listo para la aventura:
 
 1. **Elige un Nombre y Descripción:** ¿Quién es tu niño o niña? Puedes inspirarte en caricaturas, películas infantiles o tus propias travesuras de la niñez. Por ejemplo: *"Marina"* podría ser "una niña de 8 años, bajita, con gafas grandes y una sonrisa pícara".
